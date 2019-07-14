@@ -1,0 +1,32 @@
+[INFO] 20:20:34:765 Memoria/(24260:24260): Se crea el archivo de log
+[INFO] 20:20:34:765 Memoria/(24260:24260): cargando el archivo de configuracion
+[INFO] 20:20:34:765 Memoria/(24260:24260): Inicializar Memoria
+[INFO] 20:20:34:765 Memoria/(24260:24260): se creo la lista de segmentos
+[INFO] 20:20:34:765 Memoria/(24260:24260): la memoria se inicio correctamente
+[INFO] 20:20:34:770 Memoria/(24260:24262): buscando data de otras memorias
+[ERROR] 20:20:34:770 Memoria/(24260:24262): Error conectando socket
+[ERROR] 20:20:34:770 Memoria/(24260:24262): no se pudo extableser conexion
+[ERROR] 20:20:34:770 Memoria/(24260:24262): Error conectando socket
+[ERROR] 20:20:34:771 Memoria/(24260:24262): no se pudo extableser conexion
+[INFO] 20:21:27:978 Memoria/(24260:24260): Ejecutando un insert
+[INFO] 20:21:27:978 Memoria/(24260:24260): No se encontro el segmento de esa tabla
+[INFO] 20:21:34:771 Memoria/(24260:24262): buscando data de otras memorias
+[ERROR] 20:21:34:772 Memoria/(24260:24262): Error conectando socket
+[ERROR] 20:21:34:772 Memoria/(24260:24262): no se pudo extableser conexion
+[ERROR] 20:21:34:772 Memoria/(24260:24262): Error conectando socket
+[ERROR] 20:21:34:772 Memoria/(24260:24262): no se pudo extableser conexion
+[INFO] 20:21:39:249 Memoria/(24260:24260): Ejecutando un insert
+[INFO] 20:21:39:249 Memoria/(24260:24260): No se encontro el segmento de esa tabla
+[ERROR] 20:21:39:250 Memoria/(24260:24260): no hay espacio en las paginas
+[INFO] 20:21:47:200 Memoria/(24260:24260): [+] El comando es un DROP
+
+[INFO] 20:21:47:201 Memoria/(24260:24260): [+] Ejecutando DROP
+
+[INFO] 20:21:47:201 Memoria/(24260:24260): Se encontro el segmento por Drop
+[ERROR] 20:21:47:201 Memoria/(24260:24260): Error al enviar mensaje a: 
+[INFO] 20:22:34:778 Memoria/(24260:24262): buscando data de otras memorias
+[ERROR] 20:22:34:779 Memoria/(24260:24262): Error conectando socket
+[ERROR] 20:22:34:779 Memoria/(24260:24262): no se pudo extableser conexion
+[ERROR] 20:22:34:779 Memoria/(24260:24262): Error conectando socket
+[ERROR] 20:22:34:779 Memoria/(24260:24262): no se pudo extableser conexion
+[INFO] 20:22:39:433 Memoria/(24260:24260): Ejecutando un insert
